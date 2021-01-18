@@ -22,5 +22,5 @@ end
 
 loop_message_n_times("Hello Moon", 5)
 
-output_array(array1)
+output_array(quote)
   
