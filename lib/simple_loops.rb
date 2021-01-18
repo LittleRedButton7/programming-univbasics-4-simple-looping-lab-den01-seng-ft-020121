@@ -25,5 +25,5 @@ loop_message_n_times("Hello Moon", 5)
 def output_array(quote)
   counter = 0
   
-  while counter > 0 do
+  while quote[counter] > 0 do
     puts counter[]
