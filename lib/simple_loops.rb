@@ -43,3 +43,4 @@ def return_string_array(array)
   new_array
 end
 
+output_array([1,2,3,4,5])
