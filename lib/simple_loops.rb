@@ -27,3 +27,8 @@ def output_array(quote)
   
   while quote[counter]
     puts quote[counter]
+    counter += 1 
+  end
+end
+
+output_array(["Be yourself;", "everyone else is already taken", "- Oscar Wilde"])
