@@ -32,3 +32,5 @@ def output_array(quote)
 end
 
 output_array(["Be yourself;", "everyone else is already taken", "- Oscar Wilde"])
+
+def return_string_array()
